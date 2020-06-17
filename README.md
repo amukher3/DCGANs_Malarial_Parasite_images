@@ -12,3 +12,5 @@ This is an effort to generate Malaria infected cell images. The source images ar
 ***Real samples:***
 
 ![](real_samples.png)
+
+***Auteur:Abhishek Mukherjee***
